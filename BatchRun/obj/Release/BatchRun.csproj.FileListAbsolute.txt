@@ -1,0 +1,9 @@
+Z:\dotnet\BatchRun\BatchRun\bin\Release\BatchRun.exe.config
+Z:\dotnet\BatchRun\BatchRun\obj\Release\BatchRun.exe
+Z:\dotnet\BatchRun\BatchRun\obj\Release\BatchRun.pdb
+Z:\dotnet\BatchRun\BatchRun\obj\Release\ResolveAssemblyReference.cache
+Z:\dotnet\BatchRun\BatchRun\obj\Release\BatchRun.AboutBox.resources
+Z:\dotnet\BatchRun\BatchRun\obj\Release\BatchRun.MainForm.resources
+Z:\dotnet\BatchRun\BatchRun\obj\Release\BatchRun.Properties.Resources.resources
+Z:\dotnet\BatchRun\BatchRun\obj\Release\BatchRun.RunScripts.resources
+Z:\dotnet\BatchRun\BatchRun\obj\Release\BatchRun.csproj.GenerateResource.Cache

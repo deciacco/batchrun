@@ -1,0 +1,7 @@
+Z:\dotnet\BatchRun\CustomEditors\obj\Release\ResolveAssemblyReference.cache
+Z:\dotnet\BatchRun\CustomEditors\obj\Release\Interop.MSDASC.dll
+Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.csproj.ResolveComReference.cache
+Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.SqlStringEditorDialog.resources
+Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.csproj.GenerateResource.Cache
+Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.dll
+Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.pdb

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BatchRun">
+</Property><Property Name="Solution File" Value="Z:\dotnet\BatchRun\BatchRun.sln">
+</Property><Property Name="User Options File" Value="Z:\dotnet\BatchRun\BatchRun.suo">
+</Property><Property Name="Date" Value="Thursday, September 05, 2013">
+</Property><Property Name="Time" Value="10:22 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BatchRun.sln" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BatchRun.suo" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun.suo">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\BatchRun.csproj" Description="Project file successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\BatchRun.csproj">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\BatchRun.csproj.user" Description="Project user file successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\BatchRun.csproj.user">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\AboutBox.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\AboutBox.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\AboutBox.Designer.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\AboutBox.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Data\BatchRunDS.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Data\BatchRunDS.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Data\BatchRunDS.Designer.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Data\BatchRunDS.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\MainForm.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\MainForm.Designer.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Program.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Program.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Properties\Resources.Designer.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Properties\Settings.Designer.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\RunScripts.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\RunScripts.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\RunScripts.Designer.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\RunScripts.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\SqlScriptLauncher.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\SqlScriptLauncher.cs">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\app.config" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\app.config">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Data\BatchRunDS.xsc" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Data\BatchRunDS.xsc">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Data\BatchRunDS.xsd" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Data\BatchRunDS.xsd">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Data\BatchRunDS.xss" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Data\BatchRunDS.xss">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Properties\DataSources\BatchRun.Data.BatchRunDS+ScriptsListDataTable.datasource" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Properties\DataSources\BatchRun.Data.BatchRunDS+ScriptsListDataTable.datasource">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Properties\Settings.settings" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\servicerunning.ico" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\servicerunning.ico">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\AboutBox.resx" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\AboutBox.resx">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\MainForm.resx" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\Properties\Resources.resx" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\RunScripts.resx" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\BatchRun\RunScripts.resx">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\BatchRun.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BatchRun" Source="BatchRun\BatchRun.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\CustomEditors.csproj" Description="Project file successfully backed up as Z:\dotnet\BatchRun\Backup\CustomEditors\CustomEditors.csproj">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\CustomEditors.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\CustomEditors\CustomEditors.cs">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\Properties\AssemblyInfo.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\CustomEditors\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\SqlStringEditorDialog.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\CustomEditors\SqlStringEditorDialog.cs">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\SqlStringEditorDialog.Designer.cs" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\CustomEditors\SqlStringEditorDialog.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\SqlStringEditorDialog.resx" Description="File successfully backed up as Z:\dotnet\BatchRun\Backup\CustomEditors\SqlStringEditorDialog.resx">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\CustomEditors.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CustomEditors" Source="CustomEditors\CustomEditors.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BatchRun.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BatchRun.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BatchRun" Source="BatchRun\BatchRun.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="CustomEditors" Source="CustomEditors\CustomEditors.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
