@@ -5,3 +5,15 @@ Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.SqlStringEditorDialog
 Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.csproj.GenerateResource.Cache
 Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.dll
 Z:\dotnet\BatchRun\CustomEditors\obj\Release\CustomEditors.pdb
+G:\dev\batchrun\CustomEditors\bin\Release\CustomEditors.dll
+G:\dev\batchrun\CustomEditors\bin\Release\CustomEditors.pdb
+G:\dev\batchrun\CustomEditors\bin\Release\Interop.MSDASC.dll
+G:\dev\batchrun\CustomEditors\bin\Release\Interop.SQLDMO.dll
+G:\dev\batchrun\CustomEditors\obj\Release\ResolveAssemblyReference.cache
+G:\dev\batchrun\CustomEditors\obj\Release\Interop.MSDASC.dll
+G:\dev\batchrun\CustomEditors\obj\Release\Interop.SQLDMO.dll
+G:\dev\batchrun\CustomEditors\obj\Release\CustomEditors.csproj.ResolveComReference.cache
+G:\dev\batchrun\CustomEditors\obj\Release\CustomEditors.SqlStringEditorDialog.resources
+G:\dev\batchrun\CustomEditors\obj\Release\CustomEditors.csproj.GenerateResource.Cache
+G:\dev\batchrun\CustomEditors\obj\Release\CustomEditors.dll
+G:\dev\batchrun\CustomEditors\obj\Release\CustomEditors.pdb

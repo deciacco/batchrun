@@ -20,6 +20,12 @@ namespace BatchRun
 		private string _lastErrorMessage = "";
 		private string _batchName = "";
 		private int _batchId;
+
+        public void Dispose()
+        {
+            Dispose();
+            GC.SuppressFinalize(this);
+        }
 		
 		public SqlScriptLauncher()
 		{
