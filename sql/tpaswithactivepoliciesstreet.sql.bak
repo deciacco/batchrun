@@ -1,0 +1,31 @@
+select
+
+   COUNT(*) as NoOfAccounts,
+
+   IsNull(rtrim(ltrim(dl4.Name)), 'Unassigned') as Administrator, 
+
+   rtrim(ltrim(dl4.Address)) as StreeAddress, 
+
+   rtrim(ltrim(dl4.City)) as StreetCity, 
+
+   rtrim(ltrim(dl4.State)) as StreetState, 
+
+   rtrim(ltrim(dl4.Zip) as StreetZip)
+ 
+
+from VIEW_CtrContract XLMD 
+
+join ReiTreaties      on XLMD.TreatyId        = ReiTreaties.ReiTreatyId 
+
+join InsGroups        on XLMD.InsGroupId      = InsGroups.InsGroupId 
+
+left outer join DirListings dl4  on XLMD.AdministratorId = dl4.DirListingId 
+
+LEFT JOIN DirContacts dc1 ON XLMD.UnderwriterId = dc1.DirContactId
+
+where ((XLMD.Status in ('BOUN', 'BIND', 'INFC')) or (XLMD.Status = 'SENT' and XLMD.StatusLevel = 'APPL')) and (XLMD.Status NOT IN ('DEAD', 'RESC', 'NOIS')) AND NOT ((((XLMD.Status = 'SENT') or (XLMD.Status = 'REQD')) and (XLMD.StatusLevel <> 'APPL')))
+
+GROUP BY IsNull(XLMD.AdministratorId, -1), IsNull(rtrim(ltrim(dl4.Name)), 'Unassigned'), dl4.Address, dl4.City, dl4.State, dl4.Zip
+
+order by Administrator
+
